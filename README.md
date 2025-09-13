@@ -1,0 +1,2 @@
+# efficient-privacy-friendly-and-flexible-wearable-data-processing-with-user-centric-access-control
+"Developed a framework for efficient, privacy-friendly wearable data processing with user-centric access control. Integrated lightweight techniques and fine-grained permissions to ensure secure handling of health and activity data, while keeping the system flexible, scalable, and reliable for real-world use."
