@@ -1,2 +1,6 @@
-# efficient-privacy-friendly-and-flexible-wearable-data-processing-with-user-centric-access-control
-"Developed a framework for efficient, privacy-friendly wearable data processing with user-centric access control. Integrated lightweight techniques and fine-grained permissions to ensure secure handling of health and activity data, while keeping the system flexible, scalable, and reliable for real-world use."
+# Privacy-Centric Wearable Data Processing
+Designed and developed a stress detection system leveraging social media interactions to analyze user behavior and
+linguistic patterns for identifying stress indicators
+Implemented data analytics and sentiment analysis techniques to evaluate emotional states from user-generated content.
+Developed machine learning models to enhance early detection of stress, contributing to improved mental health
+monitoring and intervention systems."
